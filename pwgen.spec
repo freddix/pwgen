@@ -1,7 +1,7 @@
 Summary:	Password generator for creating easily memorable passwords
 Name:		pwgen
 Version:	2.06
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/System
 Source0:	http://downloads.sourceforge.net/sourceforge/pwgen/%{name}-%{version}.tar.gz
